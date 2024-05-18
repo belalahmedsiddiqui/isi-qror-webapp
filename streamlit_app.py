@@ -23,7 +23,7 @@ def main():
     **Contact Information:**
 
     For any queries, please contact:
-    - Admin: Belal Ahmed Siddiqui
+    - Admin: Belal Ahmed Siddiquiiii
     - Email: qr2304@isical.ac.in
     - LinkedIn: https://bit.ly/belallin
     
